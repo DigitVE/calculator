@@ -1,14 +1,14 @@
-## Задача 
+## Task 
 
-Написать калькулятор с функциями: сложение, вычитание, деление, умножение, скобки, степень.
+Write calculator with a simple functions: addition, subtraction, division, multiplication, brackets, degree.
 
-## Установка
+## How to use
 
 ```
 composer install
 ```
 
-## Примеры использования
+## How to use
 
 ```
 php index.php '(8+2*5)/(1+3*2-4)'

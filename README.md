@@ -2,7 +2,7 @@
 
 Write calculator with a simple functions: addition, subtraction, division, multiplication, brackets, degree.
 
-## How to use
+## How to install
 
 ```
 composer install
